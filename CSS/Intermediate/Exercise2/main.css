@@ -1,0 +1,27 @@
+ol li {
+    color: green;
+}
+
+li {
+    color: red;
+    color: red;
+}
+
+.parent h2 {
+    color: purple;
+}
+
+.parent div h2 {
+    color: aqua;
+}
+
+h1,
+h3,
+h4,
+p {
+    color: blue;
+}
+
+h3 {
+    color: crimson;
+}

@@ -1,0 +1,25 @@
+body {
+    background-color: #fff333;
+}
+
+h1 {
+    text-align: center;
+    color:red;
+    text-shadow: 2px 2px white;
+}
+
+p{
+    color: magenta;
+}
+
+.test{
+    color:palegreen;
+}
+
+#id{
+    color: crimson;
+    background-color: black;
+    border: 2px solid white;
+}
+
+
