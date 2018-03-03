@@ -11,5 +11,21 @@
 
 .container-fluid{
     margin-left: -15px;
+    margin-right: -15px;
 }
 
+.sectionDark{
+   background-color: #cccccc;    
+    padding:2rem;   
+}
+
+.coolStuffWraper{
+    margin-top: 20px;
+}
+
+button.coolStuffBtn{
+    background-color: red;
+    color: #ffffff;
+    display: block;
+    margin: auto;
+}
