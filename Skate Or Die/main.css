@@ -9,21 +9,21 @@
     padding: 2rem;
 }
 
-.container-fluid{
+.container-fluid {
     margin-left: -15px;
     margin-right: -15px;
 }
 
-.sectionDark{
-   background-color: #cccccc;    
-    padding:2rem;   
+.sectionDark {
+    background-color: #cccccc;
+    padding: 2rem;
 }
 
-.coolStuffWraper{
+.coolStuffWraper {
     margin-top: 20px;
 }
 
-button.coolStuffBtn{
+button.coolStuffBtn {
     background-color: red;
     color: #ffffff;
     display: block;
