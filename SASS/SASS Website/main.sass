@@ -8,6 +8,15 @@ $brand-light:   #e6f2ff
 
 
 //mixins
+=shaping($height, $width,$rad, $bg, $color)
+    height:                 $height
+    width:                  $width
+    -webkit-border-radius:  $rad
+    -moz-border-radius:     $rad
+    -ms-border-radius:      $rad
+    border-radius:          $rad
+    background-color:       $bg
+    color:                  $bg
 
 
 
@@ -15,3 +24,14 @@ $brand-light:   #e6f2ff
 //styles
 body 
     background-color: $brand-light
+
+section 
+    background-color: $brand-sub
+    color: $brand-dark
+    width: 780px
+    margin: auto
+    padding: 20px
+    border-radius:  7px
+
+.thumb1
+
